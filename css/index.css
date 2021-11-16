@@ -220,6 +220,7 @@ body{
 .imgfront{
     width:100%;
     height: 100%;
+    border-radius: 20px;
 }
 .back1 , .back2 , .back3 , .back4
 {
