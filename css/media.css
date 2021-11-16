@@ -50,6 +50,13 @@
             font-family: sans-serif;
             color: white;
         }
+
+        .intro a:hover, .intro li:hover{
+            color: rgb(255, 255, 255);
+            border-color: white;
+            transition-duration: 0.8s;
+            transform: scale(1.1);
+        }
         /* New Page OF Page */
         
         .intro2{
@@ -101,7 +108,7 @@
             height: 700px;
             width: 75%;
         }
-        .front1 , .back1 , .front2 , .back2, .front3 , .back3, .front4 , .back4
+     .back1 , .back2, .back3, .back4
         {
         position: absolute;
         width: 100%;
