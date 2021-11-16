@@ -16,7 +16,7 @@
             height: 40px;
             width: 40px;
             left: 86%;
-            top: 86%;
+            top: 88%;
             z-index: 5;
         }
         .signup img{
@@ -102,9 +102,9 @@
             width: 75%;
         }
         .front1 ,.front2,.front3,.front4{
-            backface-visibility: hidden;
-            -moz-backface-visibility: hidden;
-            -webkit-backface-visibility: hidden;
+            backface-visibility: show;
+            -moz-backface-visibility: show;
+            -webkit-backface-visibility: show;
         }
         .h3front{
             font-size: 12px;
