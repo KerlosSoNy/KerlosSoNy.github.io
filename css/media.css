@@ -1,0 +1,142 @@
+    /* Mobile Phones */
+    @media (max-width:767px){
+        .login{
+            height: 40px;
+            width: 40px;
+            left: 86%;
+            z-index: 5;
+        }
+        .login img{
+            top: 14%;
+            left: 19%;
+            width: 25px;
+            height: 25px;
+        }
+        .signup{
+            height: 40px;
+            width: 40px;
+            left: 86%;
+            top: 84%;
+            z-index: 5;
+        }
+        .signup img{
+            top: 14%;
+            left: 19%;
+            width: 25px;
+            height: 25px;
+        }
+        /* New Page OF Page */
+        .intro{
+            margin: 0px;
+            margin-bottom: 20px;
+            height: 45px;
+            overflow: hidden;
+            background-color: black;
+        }
+        .intro ul{
+            margin-top: 7px;
+            margin-left: 0px;
+        }
+        .intro ul li{
+            position: relative;
+            margin: 0px 5px 0px 0px;
+            display: inline-block;
+            border-color: white;
+        }
+
+        .intro a{
+            display: inline;
+            font-size: 12px;
+            color: white;
+        }
+        /* New Page OF Page */
+        
+        .intro2{
+            position: relative;
+            left: 12vw;
+            background-color: rgba(255, 255, 255, 0.7);
+            height: 35vh;
+        }
+        .inside_intro2{
+            background-color: rgba(255, 255, 255, 1);
+            top: 12%;
+            height: 28vh;
+        }
+        .intro2 h1{
+            position: relative;
+            left: 22.5vw;
+            top: -3.6vh;
+            width: 15vw;
+            height: 4vh;
+            padding: 6px 0px 12px 1px;
+        }
+
+        .intro2 h2{
+            position: relative;
+            font-size: 14px;
+            top: -4vh;
+            line-height: 180%;
+        }
+        .intro2 a{
+            position: relative;
+            top: -2.5vh;
+            font-size: 8px;
+        }
+
+        /* New Page OF Page */
+        .contin{
+            position: relative;
+            left: 12vw;
+            background-color: rgba(255, 255, 255, 0.7);
+            width: 75vw;
+        }
+        .gridpic{
+            background: white;
+            position: relative;
+            left: 12%;
+            top: 25%;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,1fr);
+            height: 700px;
+            width: 75%;
+        }
+    }
+    
+        /* Small Screens
+    @media (min-width:768px){
+        .gridpic{
+            position: relative;
+            left: 25%;
+            top: 25%;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,1fr);
+            height: 600px;
+            width: 50%;
+        }
+    }
+    
+        /* Meduim Screens */
+    /* @media (min-width:992px){
+        .gridpic{
+            position: relative;
+            left: 25%;
+            top: 25%;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,1fr);
+            height: 600px;
+            width: 50%;
+        }
+    } */
+    
+        /* Large Screens */
+    /* @media (min-width:1200px){
+        .gridpic{
+            position: relative;
+            left: 25%;
+            top: 25%;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,1fr);
+            height: 600px;
+            width: 75%;
+        }
+    } */ 
