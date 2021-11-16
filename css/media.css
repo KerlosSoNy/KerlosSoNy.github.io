@@ -3,7 +3,7 @@
         .login{
             height: 40px;
             width: 40px;
-            left: 86%;
+            left: 85%;
             z-index: 5;
         }
         .login img{
@@ -15,8 +15,8 @@
         .signup{
             height: 40px;
             width: 40px;
-            left: 86%;
-            top: 88%;
+            left: 85%;
+            top: 86%;
             z-index: 5;
         }
         .signup img{
