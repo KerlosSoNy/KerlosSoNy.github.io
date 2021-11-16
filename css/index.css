@@ -7,6 +7,7 @@ body{
     padding: 0px;
     background-image: url(/pic/background/61923026eeaa3.jpg);
     background-size: cover;
+    background:norepeat;
     font-family: 'Lora', serif;
 }
 
