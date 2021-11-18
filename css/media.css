@@ -163,6 +163,11 @@
             height: 700px;
             width: 75%;
         }
+
+        .imgfront{
+            border-radius: 20px;
+        }
+
      .back1 , .back2, .back3, .back4
         {
         position: absolute;
