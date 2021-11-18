@@ -33,7 +33,7 @@
             display: inline-block;
             background-color: white;
             width: 100%;
-            height: 4vh;
+            height: 35px;
         }
         .dropbtn {
             background-color: transparent;
@@ -78,7 +78,7 @@
           
           /* Change the background color of the dropdown button when the dropdown content is shown */
           .dropdown:hover .dropbtn {
-            background-color: #3e8e41;
+            background-color: transparent;
           }
           .exintro{
               display: inline-block;
@@ -86,27 +86,33 @@
               align-items: center;
           }
           .exintro h3{
-                display: inline-block;
-                margin: 0% 0px 0px 31%;
-                position: relative;
+            display: inline-block;
+            position: relative;
+            left:30.2%;
+            top: -50%;
+            margin: 0px;
+            padding: 0px;
           }
 
           .dropbtn{
-            height: 4vh;
-            width: 36px;
+            height: 50;
+            width: 35px;
             padding: 0px;
             margin: 0px 5px 0px 5px;
           }
+
           .exintro img{
-              margin: 2px 3px;
+              margin: 0px 3px 7px;
               padding: 0px;
               position: relative;
-              width: 30px;
-              height: 3.5vh;
+              width: 35px;
+              height: 35px;
               cursor: pointer;
           }
-        /* New Page OF Page */
-        
+
+
+            /* New Page OF Page */
+    
         .intro2{
             position: relative;
             left: 12vw;
