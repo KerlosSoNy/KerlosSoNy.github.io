@@ -83,15 +83,25 @@
 
           .exintro h3{
                 display: inline-block;
-                margin: 5px 0px 0px 0px;
+                margin: -5px 0px 0px 0px;
                 position: relative;
-                left: 34%;
+                top: -30%;
+                left: 30%;
           }
-
-          .exintro i{
+          
+          .dropbtn{
+            height: 4vh;
+            width: 36px;
+            padding: 0px;
+            margin: 0px 5px 0px 5px;
+          }
+          .exintro img{
+              margin: 2px 3px;
+              padding: 0px;
               position: relative;
-              width: 100px;
-              height: 4vh;
+              width: 30px;
+              height: 3.5vh;
+              cursor: pointer;
           }
         /* New Page OF Page */
         
