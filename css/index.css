@@ -81,7 +81,7 @@ body{
     display: inline-block;
     position: relative;
     border-width: 0px 0px 1px 0px;
-    border-color: rgb(53, 77, 113);
+    border-color: rgb(76, 95, 124);
     border-style: solid;
     padding: 3px;
     margin: 0px 50px 0px;
@@ -89,7 +89,7 @@ body{
 
 .intro a{
     font-family: cursive;
-    color: rgb(53, 77, 113);
+    color: rgb(255, 255, 255);
     font-style: none;
     font-size: 22px;
     font-weight: bolder;
@@ -102,7 +102,6 @@ body{
 .intro a:hover, .intro li:hover{
     color: rgb(255, 255, 255);
     border-color: white;
-    transition-duration: 0.8s;
     transform: scale(1.5);
 }
 
