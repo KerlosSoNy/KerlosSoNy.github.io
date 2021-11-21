@@ -254,7 +254,6 @@ body{
 
     grid-template-areas: "head head pic pic"  "p p pic pic"  "p p pic pic " "span span1 pic pic";
     grid-template-columns: repeat(4, 1fr);
-    grid-template-columns: repeat(4, 1fr);
 
     
     transform-style: preserve-3d;
